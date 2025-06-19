@@ -1,0 +1,17 @@
+h1 {
+            color: blueviolet;
+            font-size: 30px;
+        }
+    P {
+        color: aqua;
+    }
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 2px;
+}
+button{
+    background-color: bisque;
+    color: brown;
+}
